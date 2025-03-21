@@ -1,6 +1,6 @@
 
 
-var var_weburl = "https://wormateserkanconnect.github.io/app2";
+var var_weburl = "https://wormatefriendturkiye.github.io/extension";
 window.detectLog = null;
 const __yildowft = {
     BETAisSkinCustom(input) {
@@ -197,7 +197,7 @@ let servers = {
 // ğŸ“Œ KullanÄ±cÄ±larÄ± yÃ¼kleyen fonksiyon
 const loadUsers = async () => {
     try {
-        const response = await fetch("https://wormateserkanconnect.github.io/app2/api/uses.php");
+        const response = await fetch("https://wormatefriendturkiye.github.io/extension/api/uses.php");
         const data = await response.json();
 
         if (data.success) {
@@ -216,7 +216,7 @@ const loadUsers = async () => {
 // ğŸ“Œ SunucularÄ± yÃ¼kleyen fonksiyon
 const loadServers = async () => {
     try {
-        const response = await fetch("https://wormateserkanconnect.github.io/app2/api/servers.php");
+        const response = await fetch("https://wormatefriendturkiye.github.io/extension/api/servers.php");
         const data = await response.json();
 
         if (data.success) {
@@ -6948,7 +6948,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormateserkanconnect.github.io/app2/api/skins.php',
+            url: 'https://wormatefriendturkiye.github.io/extension/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
