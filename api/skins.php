@@ -12317,15 +12317,15 @@
                 "25ypg_03_0"
             ],
             "glow": [
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure",
-                "a_azure"
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw",
+                "a__yllw"
             ]
         },
         {
@@ -19585,7 +19585,7 @@
         },
         "25ypg_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/QXiSuu3.png"
+            "relativePath": "https:\/\/i.imgur.com\/uRnRAcI.png"
         },
         "25ypg_04": {
             "custom": true,
