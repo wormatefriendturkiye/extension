@@ -212,10 +212,10 @@
         },
         {
             "id": 12,
-            "cliente_NOMBRE": "ABU YUSIF",
-            "cliente_ID": "gg_104402315945210827931",
+            "cliente_NOMBRE": "GOKU",
+            "cliente_ID": "gg_116864018670989373956",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2025-02-20",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
