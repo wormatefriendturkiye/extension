@@ -6015,7 +6015,7 @@ function applyGraphicsSettings(level, button) {
             
             
              $(".mm-merchant-cont").html(`
-  <div style="display: flex; justify-content: center; align-items: center;margin-top:10px">
+  <div style="display: flex;justify-content: center;align-items: center;margin-top: -295px;flex-direction: column-reverse;margin-left: 95px;gap: 67px;">
     <a href="###" target="_blank" style="margin-right: 10px;">
       <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
     </a>
@@ -6291,18 +6291,18 @@ function applyGraphicsSettings(level, button) {
             $("#loa831pibur0w4gv").replaceWith(`
 
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-                <div style="margin: 0 auto; padding: 5px; color: #48ff00; border-radius: 8px; border: 2px solid #48ff00; max-width: 350px;" id="loa831pibur0w4gv">
+                <div style="margin: 0 auto; padding: 5px; color: #00000000; border-radius: 8px; border: 2px solid #00000000; max-width: 350px;" id="loa831pibur0w4gv">
                   <div class="label" id="titleSetings" style="font-size: 18px; font-weight: bold; margin-bottom: 8px; text-align: center;">Notification</div>
                 
                   <div class="bao-list1">
                     <div class="list1" style="font-size: 12px; font-family: Arial, sans-serif; margin-bottom: 8px; text-align: center;">
-                      <i class="fa fa-calendar" aria-hidden="true" style="color: #48ff00; margin-right: 5px;"></i>
+                      <i class="fa fa-calendar" aria-hidden="true" style="color: #00000000; margin-right: 5px;"></i>
                       <strong>Update :</strong> 06/03/2025<br>
                     </div>
                 
                 
                     </div>
-                      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnab99rhKGuzw512Ex9ihSk-XTbUSehWbsbg&s" width="259" height="208" align="center" alt="">
+                      <img src="https://i.imgur.com/JD9rRH3.png" width="259" height="208" align="center" alt="">
                   </div>
                 </div>
                 `);
