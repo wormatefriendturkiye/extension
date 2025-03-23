@@ -6090,7 +6090,7 @@ function applyGraphicsSettings(level, button) {
                     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
                         <a href="javascript:void(0);" onclick="changeServer('peru')"> 
                             <span class="flag br" value="https://i.imgur.com/KE9354e.png">
-<div class="title-wormate-SEKO-flag" style="position: absolute; top: 0; z-index: 7; width: 104%; margin-left: -9px;">
+<div class="title-wormate-SEKO-flag" style="position: absolute;top: 0;z-index: 7;width: 91%;margin-left: 0px;margin-top: -13px;">
     <img src="https://haylamday.com/images/hiep_img/logo.png" width="20" align="center" alt="">Wormate Friends Türkiye.io
 </div>
                             </span> 
