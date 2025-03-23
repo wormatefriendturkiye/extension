@@ -6090,7 +6090,7 @@ function applyGraphicsSettings(level, button) {
                     <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">
                         <a href="javascript:void(0);" onclick="changeServer('peru')"> 
                             <span class="flag br" value="https://i.imgur.com/KE9354e.png">
-<div class="title-wormate-SEKO-flag" style="position: absolute;top: 0;z-index: 7;width: 91%;margin-left: 0px;margin-top: -13px;">
+<div class="title-wormate-SEKO-flag" style=position: absolute;top: 0;z-index: 7;width: 127%;margin-left: 0px;margin-top: 1px;">
     <img src="https://haylamday.com/images/hiep_img/logo.png" width="20" align="center" alt="">Wormate Friends Türkiye.io
 </div>
                             </span> 
@@ -6292,7 +6292,7 @@ function applyGraphicsSettings(level, button) {
 
                 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
                 <div style="margin: 0 auto; padding: 5px; color: #00000000; border-radius: 8px; border: 2px solid #00000000; max-width: 350px;" id="loa831pibur0w4gv">
-                  <div class="label" id="titleSetings" style="font-size: 18px; font-weight: bold; margin-bottom: 8px; text-align: center;">Notification</div>
+                  <div class="label" id="titleSetings" style="font-size: 18px; font-weight: bold; margin-bottom: 8px; text-align: center;">ㅤㅤㅤㅤㅤㅤ</div>
                 
                   <div class="bao-list1">
                     <div class="list1" style="font-size: 12px; font-family: Arial, sans-serif; margin-bottom: 8px; text-align: center;">
