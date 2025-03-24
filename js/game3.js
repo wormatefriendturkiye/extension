@@ -6900,7 +6900,7 @@ $('#default-cursor-btn').click(function () {
             $("#unl6wj4czdl84o9b").css("display", "none");
            
             $("#mm-menu-cont").css("display", "block");
-            $("#mm-bottom-buttons").css("/* display: block; */);
+            $("#mm-bottom-buttons").css("/* display: block; */");
             $("#mm-player-info").css("display", "block");
             $("#relojHelp").css("position", "absolute");
             $("#relojHelp").css("top", "12px");
