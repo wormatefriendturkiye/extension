@@ -915,10 +915,12 @@ img {
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right {
   position: absolute;
-    height: 100%;
-    width: 270px;
-    right: 30px;
-    border-radius: 5px;
+  height: 100%;
+  width: 270px;
+  right: 30px;
+  border-radius: 5px;
+  height: 0px;
+  width: 0px;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right #loa831pibur0w4gv {
   /* height:340px; */
