@@ -6015,7 +6015,7 @@ function applyGraphicsSettings(level, button) {
             
             
              $(".mm-merchant-cont").html(`
-  <div style="/* display: flex; */justify-content: center;/* align-items: center; */margin-top: -39px;flex-direction: column-reverse;margin-left: 301px;gap: 67px;px; */">
+  <div style="style="display: flex;justify-content: center;align-items: center;margin-top: -290px;flex-direction: column-reverse;margin-left: 111px;gap: 67px;">
     <a href="###" target="_blank" style="margin-right: 10px;">
       <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
     </a>
@@ -6895,12 +6895,12 @@ $('#default-cursor-btn').click(function () {
             $("#getskin").click();
             });
 
-            /*extra*/
+           /*extra*/
             $("#final-share-fb").css("display", "none");
             $("#unl6wj4czdl84o9b").css("display", "none");
            
             $("#mm-menu-cont").css("display", "block");
-            $("#mm-bottom-buttons").css("display: flex;");
+            $("#mm-bottom-buttons").css("display", "block");
             $("#mm-player-info").css("display", "block");
             $("#relojHelp").css("position", "absolute");
             $("#relojHelp").css("top", "12px");
