@@ -6287,11 +6287,7 @@ function applyGraphicsSettings(level, button) {
             //$('.cursor-container').after("<div class='background-container'></div>");
 
             //$(".servers-mexico").on("click", links);
-
-            $("#loa831pibur0w4gv").replaceWith(`
                 
-
-
                    $('#mm-coins-box').replaceWith(`
                     <div style="margin: 0;" id="mm-coins-box">
                       <button 
