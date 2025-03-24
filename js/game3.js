@@ -6289,24 +6289,6 @@ function applyGraphicsSettings(level, button) {
             //$(".servers-mexico").on("click", links);
 
             $("#loa831pibur0w4gv").replaceWith(`
-
-                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
-                <div style="margin: 0 auto;padding: 5px;color: #00000000;border-radius: 8px;border: 2px solid #00000000;max-width: 350px;margin-top: 3000px;" id="loa831pibur0w4gv">
-                  <div class="label" id="titleSetings" style="font-size: 18px; font-weight: bold; margin-bottom: 8px; text-align: center;">ㅤㅤㅤㅤㅤㅤ</div>
-                
-                  <div class="bao-list1">
-                    <div class="list1" style="font-size: 12px; font-family: Arial, sans-serif; margin-bottom: 8px; text-align: center;">
-                      <i class="fa fa-calendar" aria-hidden="true" style="color: #00000000; margin-right: 5px;"></i>
-                      <strong>Update :</strong> 06/03/2025<br>
-                    </div>
-                
-                
-                    </div>
-                      <img src="https://i.imgur.com/JD9rRH3.png" width="259" height="208" align="center" alt="">
-                  </div>
-                </div>
-                `);
-                
                 
 
 
