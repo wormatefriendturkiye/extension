@@ -158,16 +158,16 @@ body {display:block !important;}
   background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.15) 30%, rgba(255, 255, 255, 0.3) 32%, rgba(255, 255, 255, 0) 33%) 0px 0px / 100px 100px, radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.1) 11%, rgba(255, 255, 255, 0.3) 13%, rgba(255, 255, 255, 0) 14%) 0px 0px / 470px 470px, radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 17%, rgba(255, 255, 255, 0.43) 19%, rgba(255, 255, 255, 0) 20%) 0px 110px / 210px 210px, radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 11%, rgba(255, 255, 255, 0.4) 13%, rgba(255, 255, 255, 0) 14%) -130px -170px / 310px 310px, radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 11%, rgba(255, 255, 255, 0.4) 13%, rgba(255, 255, 255, 0) 14%) 130px 370px / 230px 230px, radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.1) 11%, rgba(255, 255, 255, 0.2) 13%, rgba(255, 255, 255, 0) 14%) 0px 0px / 530px 530px, linear-gradient(45deg, rgb(0, 0, 255) 20%, rgb(35 255 0) 100%) 0% 0% / 100% 100%;
 }
 #game-wrap #game-cont #background-canvas {
-  width: 62%;
-  height: 59%;
+  width: 64%;
+  height: 68%;
   position:absolute;
   top:0;
   right:0;
   bottom:0;
   left:0;
-  margin-left: 383px;
+  margin-left: 295px;
   border-radius: 30px;
-  margin-top: 165px;
+  margin-top: 107px;
   border: 5px solid black;
 }
 #game-wrap #game-cont #social-buttons {
