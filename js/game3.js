@@ -6015,7 +6015,7 @@ function applyGraphicsSettings(level, button) {
             
             
              $(".mm-merchant-cont").html(`
-  <div style="display: flex;justify-content: center;align-items: center;margin-top: -295px;flex-direction: column-reverse;margin-left: 95px;gap: 67px;">
+  <div style="/* display: flex; */justify-content: center;/* align-items: center; */margin-top: -39px;flex-direction: column-reverse;margin-left: 301px;gap: 67px;px; */">
     <a href="###" target="_blank" style="margin-right: 10px;">
       <img src="https://i.imgur.com/5cCaxAT.png" alt="no_ads" width="155">
     </a>
@@ -6900,7 +6900,7 @@ $('#default-cursor-btn').click(function () {
             $("#unl6wj4czdl84o9b").css("display", "none");
            
             $("#mm-menu-cont").css("display", "block");
-            $("#mm-bottom-buttons").css("display", "block");
+            $("#mm-bottom-buttons").css("/* display: block; */);
             $("#mm-player-info").css("display", "block");
             $("#relojHelp").css("position", "absolute");
             $("#relojHelp").css("top", "12px");
@@ -6985,7 +6985,7 @@ $('#default-cursor-btn').click(function () {
 $("#background-canvas").replaceWith(`
 
 
-    <canvas id="background-canvas" style="background-color: rgb(145 73 21 / 0%); opacity: 0.65;"></canvas>
+    <canvas id="background-canvas" style="background-color: #2e2e2ee8; opacity: 0.65;"></canvas>
     `);
    //Arka Plan kapattÄ±k.  //  <canvas id="background-canvas"></canvas>
  
