@@ -5755,9 +5755,8 @@ else {
          </div>
         <div class="worm_3">x.<span id="zoom-percentage"></span></div>
         <div class="worm_2">
-        <button id="settingBtn"><i aria-hidden="true" class="fa fa-cog fa-spin" style="color:white;font-size: 23px;"></i></button>
-        
-        <div id="settingContent">
+        <button id="settingBtn"><img src="https://i.imgur.com/bKAe6W9.png"/></button>
+        <div id="settingContent"
         
         
         <<div class="container1">
