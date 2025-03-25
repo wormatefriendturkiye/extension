@@ -231,10 +231,10 @@
         },
         {
             "id": 13,
-            "cliente_NOMBRE": "Moath UP",
-            "cliente_ID": "gg_101874132948440973751",
+            "cliente_NOMBRE": "TYSON",
+            "cliente_ID": "gg_110196707532429467312",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2026-01-20",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
