@@ -415,21 +415,21 @@
         },
         {
             "id": 3,
-            "name": "<div id='svhiep'> <div class='ten'>03. KURDISTAN 75 </div> <div class='valu'>Map: DE_3</div> <div class='offline'>OFF</div> <div class='img-team'> <img src='https://haylamday.com/images/team/kurdistan75.jpg'/> </div> </div>",
+            "name": "<div id='svhiep'> <div class='ten'>03. WFTR.İO </div> <div class='valu'>Map: DE_3</div> <div class='offline'>OFF</div> <div class='img-team'> <img src='https://haylamday.com/images/team/kurdistan75.jpg'/> </div> </div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30702/wormy",
             "status": 1
         },
         {
             "id": 2,
-            "name": "<div id='svhiep'> <div class='ten'>02. OH CLAN</div> <div class='valu'>Map: DE_2</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://haylamday.com/images/team/OH-CLAN.png'/> </div> </div>",
+            "name": "<div id='svhiep'> <div class='ten'>02. WFTR.İO</div> <div class='valu'>Map: DE_2</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://haylamday.com/images/team/OH-CLAN.png'/> </div> </div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
         },
         {
             "id": 1,
-            "name": "<div id='svhiep'> <div class='ten'>01.Platen</div> <div class='valu'>Map: DE_1</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
+            "name": "<div id='svhiep'> <div class='ten'>01.Platen</div> <div class='valu'>Map: DE_1</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://i.imgur.com/0OssZVP.jpeg'/> </div> </div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
