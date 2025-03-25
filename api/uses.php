@@ -253,7 +253,7 @@
             "cliente_NOMBRE": "raza mod",
             "cliente_ID": "gg_110196707532429467312",
             "Client_KeyAccecs": "XTPRIVATESKIN",
-            "cliente_DateExpired": "2025-03-31",
+            "cliente_DateExpired": "2025-12-30",
             "status": 1,
             "Client_VisibleSkin": "0000",
             "Client_VisibleSkin1": "0000",
