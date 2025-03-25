@@ -1458,7 +1458,7 @@
         },
         {
             "id": 700,
-            "name": "<div id='svhiep'> <div class='ten'>01.SAG - Raza Gaming</div> <div class='valu'>Map: IN_1</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://i.imgur.com/RQTKt8G.jpeg'/> </div> </div>",
+            "name": "<div id='svhiep'> <div class='ten'>01.SAG - Raza Gaming</div> <div class='valu'>Map: IN_1</div> <div class='online'>ON</div> <div class='img-team'> <img src='https://i.imgur.com/ctPusEF.png'/> </div> </div>",
             "region": "australia",
             "serverUrl": "wss://mum-a.wormate.io:31211/wormy",
             "status": 1
